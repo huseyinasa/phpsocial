@@ -947,19 +947,19 @@ $LNG['ta_years'] = '%d yıl';
 $LNG['ago'] = 'önce';
 
 // MONTHS
-$LNG['month'] = 'Month';
-$LNG['year'] = 'Year';
-$LNG['day'] = 'Day';
-$LNG['month_1'] = 'January';
-$LNG['month_2'] = 'February';
-$LNG['month_3'] = 'March';
-$LNG['month_4'] = 'April';
-$LNG['month_5'] = 'May';
-$LNG['month_6'] = 'June';
-$LNG['month_7'] = 'July';
-$LNG['month_8'] = 'August';
-$LNG['month_9'] = 'September';
-$LNG['month_10'] = 'October';
-$LNG['month_11'] = 'November';
-$LNG['month_12'] = 'December';
+$LNG['month'] = 'Ay';
+$LNG['year'] = 'Yıl';
+$LNG['day'] = 'Gün';
+$LNG['month_1'] = 'Ocak';
+$LNG['month_2'] = 'Şubat';
+$LNG['month_3'] = 'Mart';
+$LNG['month_4'] = 'Nisan';
+$LNG['month_5'] = 'Mayıs';
+$LNG['month_6'] = 'Haziran';
+$LNG['month_7'] = 'Temmuz';
+$LNG['month_8'] = 'Ağustos';
+$LNG['month_9'] = 'Eylül';
+$LNG['month_10'] = 'Ekim';
+$LNG['month_11'] = 'Kasım';
+$LNG['month_12'] = 'Aralık';
 ?>
